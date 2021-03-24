@@ -32,8 +32,8 @@ class SpotMicroJoystickControl():
     MAX_YAW_DEG = 45
     MAX_PATCH_DEG = 45
 
-    MAX_FORWARD_SPEED = 0.05
-    MAX_STRAFE_SPEED = 0.05
+    MAX_FORWARD_SPEED = 0.4
+    MAX_STRAFE_SPEED = 0.07
     MAX_YAW_SPEED_DEG = 15
 
     def __init__(self):
